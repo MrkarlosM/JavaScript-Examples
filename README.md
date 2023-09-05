@@ -8,7 +8,7 @@ The files are organized into thematic folders with a nomenclature JSEx*, where *
 
 ## Content
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+The next is the content of this repo.
 
 | Folder | Description                            | Content       |
 | ------ | -------------------------------------- | ------------- |
